@@ -1,0 +1,6 @@
+{
+  "name": "openGym",
+  "description": "Self-hosted gym and body weight tracker with 5,600+ exercises, workout plans, plate math, progression rules, muscle maps, and multi-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
